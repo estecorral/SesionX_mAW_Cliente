@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import peliculas from '../../assets/movies.json';
-import peliculasSort from "../../assets/movies.json";
 
 
 @Injectable({
